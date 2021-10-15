@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@1,700&display=swap');
+body{
+  height: auto !important;
+  margin: auto;
+  width: 50%;
+}
+/* Klasse von Signup Div */
+.Signup-Form{
+  max-width: 12em;
+  max-height: 40em;
+  padding: 1em; /* polsteuerung */
+
+}
+/* style für eingabe feld und button */
+.inpText , .inpButton{
+  padding: 1em;
+  margin: 1em;
+
+}
+h1 , h4 {
+  color:#3F0071;
+  font-family: "Fira Sans Condensed", sans-serif;
+}
